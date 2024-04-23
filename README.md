@@ -9,9 +9,9 @@ ______________________
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=keydnss&show_icons=false&theme=dark) 
 <img
-  src="https://github.com/keydnss/keydnss/assets/162588790/788498d7-dfba-4cf9-9597-11dc21093508"
-  width="300"
-  height="260" />
+  src="https://github.com/keydnss/keydnss/assets/162588790/1be68431-e2b9-4f4b-a1a3-6fc8f0de3fdf"
+  width="260"
+  height="200" />
 \
 \
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=keydnss&layout=compact&theme=dark)
