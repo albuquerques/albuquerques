@@ -15,6 +15,8 @@ ______________________________________
 \
 \
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=keydnss&layout=compact&theme=dark)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=pepei218&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=ffffff&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+
 
 <div> 
   <a href="https://instagram.com/keydns_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
