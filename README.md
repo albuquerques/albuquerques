@@ -5,7 +5,7 @@ Hello, my name is Ricardo Albuquerque, and welcome to my profile! I'm Brazilian,
 - 🤖 My dream is someday work with AI and data science!
 - ⚡ I'm a beginner, but I learn quickly and always aim for quality in my projects.
 - 📚 Currently studying the C language.
-____________________________________________________________________________________
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=keydnss&show_icons=false&theme=dark) 
 <img
   src="https://github.com/keydnss/keydnss/assets/162588790/788498d7-dfba-4cf9-9597-11dc21093508"
