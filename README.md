@@ -5,7 +5,7 @@ Hello, my name is Ricardo Albuquerque, and welcome to my profile! I'm Brazilian,
 - 🤖 My dream is someday work with AI and data science!
 - ⚡ I'm a beginner, but I learn quickly and always aim for quality in my projects.
 - 📚 Currently studying the C language.
-______________________
+______________________________________
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=keydnss&show_icons=false&theme=dark) 
 <img
@@ -18,9 +18,8 @@ ______________________
 
 <div> 
   <a href="https://instagram.com/keydns_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:rchard.asc@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  
+  <a href = "mailto:rchard.asc@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
 </div>
-_____________________
 
+______________________________________
 
