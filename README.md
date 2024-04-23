@@ -8,7 +8,11 @@ Hello, my name is Ricardo Albuquerque, and welcome to my profile! I'm Brazilian,
 
 ____________________________________________________________________________________
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=keydnss&show_icons=false&theme=dark)\
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=keydnss&show_icons=false&theme=dark) 
+<img
+  src="https://github.com/keydnss/keydnss/assets/162588790/db1bac3a-f5af-4b9f-b0bc-eaf55f3e0fff"
+  width="300"
+  height="250" />
 \
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=keydnss&layout=compact&theme=dark)
 
@@ -18,5 +22,4 @@ ________________________________________________________________________________
   
 </div>
 
-img src="https://desblogada.files.wordpress.co..." width="0px" /
 
