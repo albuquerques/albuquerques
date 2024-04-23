@@ -14,7 +14,7 @@ ______________________________________
   height="200" />
 \
 \
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=keydnss&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=keydnss&hide=javascript,css,scss,html&layout=compact&theme=dark)
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=pepei218&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=ffffff&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=pepei218&redirect=true)
 
 
