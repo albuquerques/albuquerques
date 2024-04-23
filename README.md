@@ -1,16 +1,22 @@
-### Hi there 👋
+### Hello world! 👋
+Hello, my name is Ricardo Albuquerque, and welcome to my profile! I'm Brazilian, and I'm currently studying software engineering at iCEV College. I created this profile to record my programming progress and skills.
 
-<!--
-**keydnss/keydnss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I'm looking for my first internship.
+- 🤖 My dream is someday work with AI and data science!
+- ⚡ I'm a beginner, but I learn quickly and always aim for quality in my projects.
+- 📚 Currently studying the C language.
 
-Here are some ideas to get you started:
+____________________________________________________________________________________
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=keydnss&show_icons=false&theme=dark)\
+\
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=keydnss&layout=compact&theme=dark)
+
+<div> 
+  <a href="https://instagram.com/keydns_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:rchard.asc@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  
+</div>
+
+img src="https://desblogada.files.wordpress.co..." width="0px" /
+
