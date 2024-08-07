@@ -11,7 +11,10 @@ _____________________________________
 <img
   src="https://github.com/keydnss/keydnss/assets/162588790/1be68431-e2b9-4f4b-a1a3-6fc8f0de3fdf"
   width="250"
-  height="200" />             ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=keydnss&layout=compact&theme=dark)
+  height="200" />             
+
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=keydnss&repo=projetos_c&theme=dark)](https://github.com/keydnss/projetos_c)‎ ‎ ‎ ‎ ‎ ‎ ‎ 
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=keydnss&layout=compact&theme=dark) 
 
 <div> 
   <a href="https://instagram.com/keydns_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
