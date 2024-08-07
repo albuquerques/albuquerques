@@ -10,10 +10,8 @@ _____________________________________
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=keydnss&show_icons=false&theme=dark) 
 <img
   src="https://github.com/keydnss/keydnss/assets/162588790/1be68431-e2b9-4f4b-a1a3-6fc8f0de3fdf"
-  width="260"
-  height="200" />
-
-
+  width="250"
+  height="200" />             ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=keydnss&layout=compact&theme=dark)
 
 <div> 
   <a href="https://instagram.com/keydns_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
