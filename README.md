@@ -7,12 +7,7 @@ My name is Ricardo Albuquerque, and welcome to my profile! I'm Brazilian, and I'
 - 📚 Currently studying the Next.js & Data Base.
 _____________________________________
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=albuquerques&show_icons=false&theme=dark) 
-<img
-  src="https://github.com/albuquerques/albuquerques/assets/162588790/1be68431-e2b9-4f4b-a1a3-6fc8f0de3fdf"
-  width="250"
-  height="200" />             
-
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=albuquerques&show_icons=false&theme=dark) 
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=albuquerques&repo=projetos_c&theme=dark)](https://github.com/albuquerques/projetos_c)‎ ‎ ‎ ‎ ‎ ‎ ‎ 
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=albuquerques&layout=compact&theme=dark) 
 
