@@ -5,16 +5,26 @@ My name is Ricardo Albuquerque, and welcome to my profile! I'm Brazilian, and I'
 - 🤖 My dream is someday work with AI and data science!
 - ⚡ I'm a beginner, but I learn quickly and always aim for quality in my projects.
 - 📚 Currently studying the Next.js & Data Base.
-_____________________________________
 
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=albuquerques&show_icons=false&theme=dark) 
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=albuquerques&repo=projetos_c&theme=dark)](https://github.com/albuquerques/projetos_c)‎ ‎ ‎ ‎ ‎ ‎ ‎ 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=albuquerques&layout=compact&theme=dark) 
-
-<div> 
-  <a href="https://instagram.com/rchard.asc_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:rchard.asc@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
+<div align="right">
+  <a href="https://instagram.com/rchard.asc_" target="_blank">
+    <img height="30" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a><a href="https://www.linkedin.com/in/rchards/" target="_blank">
+    <img height="30" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </div>
 
 _____________________________________
+  <a href="https://github.com/albuquerques/github-readme-stats">
+  <img height=250 align="center" src="https://github-readme-stats.vercel.app/api?username=albuquerques&theme=apprentice" />
+  </a>
+  <a href="https://github.com/albuquerques/convoychat">             
+    <img height=250 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=albuquerques&layout=donut&langs_count=8&card_width=320&theme=apprentice" />
+  </a> 
+
+<div>ㅤㅤㅤㅤ</div>
+
+_____________________________________
+
+![](https://github-profile-trophy.vercel.app/?username=albuquerques&theme=gitdimmed&margin-w=15)
 
