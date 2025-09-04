@@ -3,7 +3,7 @@ My name is Ricardo Albuquerque, and welcome to my profile! I'm Brazilian, and I'
 
 - 🔭 I'm looking for my first internship.   
 - 🤖 My dream is someday work with AI and data science!   
-- ⚡ I'm a beginner, but I learn quickly and always aim for quality in my projects.  
+- ⚡ I'm a beginner, but I learn quickly and always aim for quality in my projects.   
 - 📚 Currently studying the Python & DataBase.  
   
 <div align="right">
