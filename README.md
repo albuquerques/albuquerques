@@ -6,7 +6,7 @@ My name is Ricardo Albuquerque, and welcome to my profile! I'm Brazilian, and I'
 - ⚡ I'm a beginner, but I learn quickly and always aim for quality in my projects.     
 - 📚 Currently studying the Python & DataBase.  
   
-<div align="right">
+<div align="right"> 
   <a href="https://instagram.com/rchard.asc_" target="_blank">
     <img height="30" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a><a href="https://www.linkedin.com/in/rchards/" target="_blank">
