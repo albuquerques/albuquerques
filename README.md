@@ -1,5 +1,5 @@
 ### Hello world! 👋     
-My name is Ricardo Albuquerque, and welcome to my profile! I'm Brazilian, and I'm currently studying software engineering at iCEV College. I created this profile to record my programming progress and skills.     
+My name is Ricardo Albuquerque, and welcome to my profile! I'm Brazilian, and I'm currently studying software engineering at iCEV College. I created this profile to record my programming progress and skills.      
    
 - 🔭 I'm looking for my first internship.        
 - 🤖 My dream is someday work with AI and data science!    
