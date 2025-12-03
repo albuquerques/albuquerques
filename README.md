@@ -19,16 +19,6 @@ My name is Ricardo Albuquerque, and welcome to my profile! I'm Brazilian, and I'
 </div>
 
 _____________________________________
-  <a href="https://github.com/albuquerques/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=albuquerques&theme=apprentice" />
-  </a>
-  <a href="https://github.com/albuquerques/convoychat">             
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=albuquerques&layout=donut&langs_count=8&card_width=320&theme=apprentice" />
-  </a> 
-
-<div>ㅤㅤㅤㅤ</div>
-
-_____________________________________
 
 ![](https://github-profile-trophy.vercel.app/?username=albuquerques&theme=gitdimmed&margin-w=15)
 
