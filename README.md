@@ -19,5 +19,6 @@ My name is Ricardo Albuquerque, and welcome to my profile! I'm Brazilian, and I'
 </div>
 _____________________________________
 
+
 ![](https://github-profile-trophy.vercel.app/?username=albuquerques&theme=gitdimmed&margin-w=15)
 
