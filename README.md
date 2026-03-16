@@ -6,6 +6,8 @@ My name is Ricardo Albuquerque, and welcome to my profile! I'm Brazilian, and I'
 - ⚡ I'm a beginner, but I learn quickly and always aim for quality in my projects.     
 - 📚 Currently studying the Python & DataBase.  
 
+_____________________________________
+
 <div align="right">
 
   <a href="https://instagram.com/rchard.asc_" target="_blank">
@@ -17,8 +19,6 @@ My name is Ricardo Albuquerque, and welcome to my profile! I'm Brazilian, and I'
   </a>
 
 </div>
-_____________________________________
-
 
 ![](https://github-profile-trophy.vercel.app/?username=albuquerques&theme=gitdimmed&margin-w=15)
 
