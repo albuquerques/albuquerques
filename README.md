@@ -17,7 +17,6 @@ My name is Ricardo Albuquerque, and welcome to my profile! I'm Brazilian, and I'
   </a>
 
 </div>
-
 ‎ 
 _____________________________________
 
