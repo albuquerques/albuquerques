@@ -4,11 +4,11 @@
 
 <!-- ## 👋 &nbsp;Hey there! I'm Aditya -->
 
-### 👨🏻‍💻 &nbsp;About Me
+### ⛩️ &nbsp;About Me
 
 💡 &nbsp;I enjoy solving problems and always prioritize quality in my projects.\
 🎓 &nbsp;I am currently studying software engineering at the iCEV educational institute.\
-🌱 &nbsp;I'm looking to learn more about Artificial Intelligence and data analytics.\
+🚀 &nbsp;I'm looking to learn more about Artificial Intelligence and data analytics.\
 ✍️ &nbsp;In my free time, I do graphic design work and practice programming logic in Leetcode.\
 ✉️ &nbsp;You can shoot me an email at ricardoalbuquerque.pro@gmail.com! I'll try to respond as soon as I can.
 
@@ -43,7 +43,7 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://linkedin.com/in/AVS1508"><img src="https://img.shields.io/badge/-Aditya%20Vikram%20Singh-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:avsingh@umass.edu"><img src="https://img.shields.io/badge/-avsingh@umass.edu-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://instagram.com/adityavs_"><img src="https://img.shields.io/badge/-@adityavs__-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/albuquerques/"><img src="https://img.shields.io/badge/-Ricardo%20Albuquerque-400000?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:ricardoalbuquerque.pro@gmail.com"><img src="https://img.shields.io/badge/-ricardoalbuquerque.pro@gmail.com-800000?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://instagram.com/rchard.asc"><img src="https://img.shields.io/badge/-@rchard.asc-400000?style=flat&logo=Instagram&logoColor=white"/></a>
 </p>
