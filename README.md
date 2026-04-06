@@ -34,10 +34,8 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/AVS1508">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=albuquerques&show_icons=true&include_all_commits=true&count_private=true&bg_color=000000&icon_color=bf0000&text_color=FFFFFF&title_color=ff0000"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=albuquerques&layout=compact&langs_count=8&bg_color=000000&icon_color=bf0000&text_color=FFFFFF&title_color=ff0000"/>
-</a>
 </p>
 
 ### 🤝🏻 &nbsp;Connect with Me
