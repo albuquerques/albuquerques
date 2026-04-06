@@ -1,6 +1,6 @@
 ![Aditya Vikram Singh Banner](https://raw.githubusercontent.com/albuquerques/albuquerques/main/assets/RICARDO%20ALBUQUERQUE.jpg)
 
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Ricardo Albuquerque</h2>
+<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Ricardo </h2>
 
 <!-- ## 👋 &nbsp;Hey there! I'm Aditya -->
 
