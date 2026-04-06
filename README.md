@@ -12,7 +12,7 @@
 ✍️ &nbsp;In my free time, I do graphic design work and practice programming logic in Leetcode.\
 ✉️ &nbsp;You can shoot me an email at ricardoalbuquerque.pro@gmail.com! I'll try to respond as soon as I can.\
 
-<img alt="Morgana Coding" src="https://raw.githubusercontent.com/albuquerques/albuquerques/main/assets/per sona.png" align="right"/>
+<img alt="Morgana Coding" src="https://raw.githubusercontent.com/albuquerques/albuquerques/main/assets/persona.png" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
 
