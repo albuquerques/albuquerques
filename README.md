@@ -1,4 +1,4 @@
-![Aditya Vikram Singh Banner](https://raw.githubusercontent.com/albuquerques/albuquerques/main/assets/RICARDO%20ALBUQUERQUE.jpg)
+![Ricardo Albuquerque Banner](https://raw.githubusercontent.com/albuquerques/albuquerques/main/assets/RICARDO%20ALBUQUERQUE%20.jpg)
 
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Ricardo </h2>
 
