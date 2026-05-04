@@ -16,32 +16,32 @@
 
 ### 🛠 &nbsp;Tech Stack
 
-![Python](https://img.shields.io/badge/-Python-400000?style=flat&logo=python)&nbsp;
-![Java](https://img.shields.io/badge/-Java-400000?style=flat&logo=Java&logoColor=FFA518)&nbsp;
-![C](https://img.shields.io/badge/-C-400000?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
-![C++](https://img.shields.io/badge/-C++-400000?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
-![R (Statistics)](https://img.shields.io/badge/-R-400000?style=flat&logo=R&logoColor=276DC3)\
-![React](https://img.shields.io/badge/-React-400000?style=flat&logo=react)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-400000?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-400000?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Git](https://img.shields.io/badge/-Git-400000?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-400000?style=flat&logo=github)\
-![Markdown](https://img.shields.io/badge/-Markdown-400000?style=flat&logo=markdown)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-400000?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Photoshop](https://img.shields.io/badge/-Photoshop-400000?style=flat&logo=adobe-photoshop)\
-![MySQL](https://img.shields.io/badge/-MySQL-400000?style=flat&logo=mysql)&nbsp;
-![Figma](https://img.shields.io/badge/Figma-400000?style=flat&logo=figma)&nbsp;
+![Python](https://img.shields.io/badge/-Python-4b502b?style=flat&logo=python)&nbsp;
+![Java](https://img.shields.io/badge/-Java-957f66?style=flat&logo=Java&logoColor=FFA518)&nbsp;
+![C](https://img.shields.io/badge/-C-4b502b?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
+![C++](https://img.shields.io/badge/-C++-957f66?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
+![R (Statistics)](https://img.shields.io/badge/-R-4b502b?style=flat&logo=R&logoColor=276DC3)\
+![React](https://img.shields.io/badge/-React-957f66?style=flat&logo=react)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-4b502b?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-957f66?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![Git](https://img.shields.io/badge/-Git-4b502b?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-957f66?style=flat&logo=github)\
+![Markdown](https://img.shields.io/badge/-Markdown-4b502b?style=flat&logo=markdown)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-4b502b?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Photoshop](https://img.shields.io/badge/-Photoshop-957f66?style=flat&logo=adobe-photoshop)\
+![MySQL](https://img.shields.io/badge/-MySQL-4b502b?style=flat&logo=mysql)&nbsp;
+![Figma](https://img.shields.io/badge/Figma-957f66?style=flat&logo=figma)&nbsp;
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-  <img style="display: inline-block;" height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=albuquerques&show_icons=true&include_all_commits=true&count_private=true&bg_color=000000&icon_color=bf0000&text_color=FFFFFF&title_color=ff0000"/>
-  <img style="display: inline-block;" height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=albuquerques&layout=compact&langs_count=8&bg_color=000000&icon_color=bf0000&text_color=FFFFFF&title_color=ff0000"/>
+  <img style="display: inline-block;" height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=albuquerques&show_icons=true&include_all_commits=true&count_private=true&bg_color=000000&icon_color=dab9a6&text_color=FFFFFF&title_color=4b502b"/>
+  <img style="display: inline-block;" height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=albuquerques&layout=compact&langs_count=8&bg_color=000000&icon_color=dab9a6&text_color=FFFFFF&title_color=4b502b"/>
 </p>
 
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://www.linkedin.com/in/albuquerques/"><img src="https://img.shields.io/badge/-Ricardo%20Albuquerque-400000?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:ricardoalbuquerque.pro@gmail.com"><img src="https://img.shields.io/badge/-ricardoalbuquerque.pro@gmail.com-800000?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://instagram.com/rchard.asc"><img src="https://img.shields.io/badge/-@rchard.asc-400000?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/albuquerques/"><img src="https://img.shields.io/badge/-Ricardo%20Albuquerque-4b502b?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:ricardoalbuquerque.pro@gmail.com"><img src="https://img.shields.io/badge/-ricardoalbuquerque.pro@gmail.com-957f66?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://instagram.com/rchard.asc"><img src="https://img.shields.io/badge/-@rchard.asc-4b502b?style=flat&logo=Instagram&logoColor=white"/></a>
 </p>
